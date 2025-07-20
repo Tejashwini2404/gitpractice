@@ -96,10 +96,11 @@ console.log(total)
 
 */
 
-
+/*
 let str1="Tejashwini"
 let str2="Julappagari"
 
 let rev=str2.split("").reverse().join("")
 let res=`${str1}${str2}`
 console.log(res)
+*/
